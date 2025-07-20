@@ -30,12 +30,21 @@
 - `aws-ci-pipeline` – AWS deployment pipeline using GitHub Actions
 - `node-docker-template` – Simple Docker boilerplate for Node.js
 - `terraform-modules` – Reusable AWS Terraform modules
+---
+📜 Certifications
+
+🐍 Python Programming Fundamentals – IBM
+
+🖥️ Getting Started with Microsoft PowerPoint – Coursera
 
 ---
 
-## 📜 Certifications
-- ✅ AWS Certified Solutions Architect – Associate *(or your actual certs)*
-- 📘 JLPT N5 – Japanese Language Proficiency Test *(if applicable)*
+### 🧪 Publications
+- 📄 *Temperature and Humidity Optimization of Smart Greenhouses: Comparison between Simulated Annealing and Genetic Algorithm*  
+  _7th International Conference on Intelligent Computing and Optimization, Springer_
+
+- 📄 *Detection of Cardiovascular Disease using Extreme Learning Machine and Artificial Neural Network*  
+  _7th International Conference on Intelligent Computing and Optimization, Springer_
 
 ---
 
