@@ -17,11 +17,10 @@
 - **Scripting:** Bash, Shell Scripting
 
 ### 💻 Programming & Web
-- **Languages:** PHP, Python, Java, C/C++
-- **Frameworks:** Laravel, CakePHP, Vue.js
-- **Databases:** MySQL, PostgreSQL, Oracle
-- **Other Tools:** Redis, Firebase, Stripe, PayPal, Prodigi API
-- **Frontend:** HTML5, CSS3, Bootstrap, Sass, jQuery
+- **Languages:** Python, Java, C/C++
+- **Databases:** MySQL, MongoDB
+- **Other Tools:** Redis 
+- **Frontend:** HTML5, CSS3
 
 ---
 
