@@ -49,11 +49,11 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 **Website:** [yourdomain.com]
-- 📧 **Email:** [you@example.com]
-- 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 💻 **GitHub:** [@yourgithub](https://github.com/yourgithub)
-- 📱 **Phone / WhatsApp:** [+88 XXXXXXXXXX]
+- 🌐 **Website:** https://mdashrafulhasan.github.io/MdAshrafulHasan-Md-Ashraful-Hasan-Shafin/
+- 📧 **Email:** ashraful.shafin@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/md-ashraful-hasan-822207296/
+- 💻 **GitHub:** https://github.com/MdAshrafulHasan
+- 📱 **Phone / WhatsApp:** +8801795814994
 
 ---
 
